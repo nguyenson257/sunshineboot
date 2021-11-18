@@ -14,7 +14,7 @@ public class Sanpham {
 	@Column
 	private int iddm;
 	@Column
-	private String tensp;
+	private String tensanpham;
 	@Column
 	private String motasp;
 	@Column
